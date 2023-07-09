@@ -113,7 +113,7 @@ image = Image.open( 'Delivery.png' )
 st.sidebar.image( image, width=300)
 
 st.sidebar.markdown ('# Curry Company')
-st.sidebar.markdown ('## Fastest Delivery in Town')
+st.sidebar.markdown ('## A entrega mais rápida da cidade')
 st.sidebar.markdown ("""---""")
 
 st.sidebar.markdown ('## Selecione uma data limite')
