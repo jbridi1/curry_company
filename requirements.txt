@@ -6,6 +6,5 @@ folium==0.14.0
 matplotlib==3.7.0
 matplotlib-inline==0.1.6
 haversine==2.7.0
-streamlit-folim==0.7.0
 Pillow==9.2.0
 
